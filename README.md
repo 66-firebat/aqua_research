@@ -1,0 +1,1 @@
+This repository uses embedded git worktrees. Please note that all data is preserved in the respective branches, but the main branch will simply display gitlinks (type 160000) to the branches because they have been designated as worktrees, and are perceived as individual repositories by git.
